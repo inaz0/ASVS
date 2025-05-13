@@ -6,9 +6,9 @@ Bienvenue dans la version 5.0 du référentiel de vérification de la sécurité
 
 L'ASVS est un effort communautaire visant à établir un cadre d'exigences et de contrôles de sécurité qui se concentre sur la définition des contrôles de sécurité fonctionnels et non fonctionnels requis lors de la conception, du développement et du test d'applications et de services web modernes.
 
-ASVS Version 5.0 is the culmination of a huge amount of effort from the leaders, working group and other community members to update and improve this important standard.
+La version 5.0 d'ASVS est l'aboutissement d'un travail considérable de la part des responsables, du groupe de travail et des autres membres de la communauté pour mettre à jour et améliorer cette norme importante.
 
-Our goal for this version has been to make the ASVS easier to use whilst also making it more clearly focused on a particular scope and covering new, important areas of application developement.
+Notre objectif pour cette version était de simplifier l'utilisation d'ASVS tout en le ciblant plus clairement sur un domaine d'application spécifique et en couvrant de nouveaux domaines importants du développement d'applications.
 
 ## Les objectifs clés de la version 5.0 de l'ASVS
 
